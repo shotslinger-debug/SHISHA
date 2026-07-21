@@ -1,0 +1,24 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+nbproject/
+
+# Scripts generados por IA
+*.py
+*.txt
+*.sql
+*.pem
+fix*.sql
+check.sql
+insert.sql
